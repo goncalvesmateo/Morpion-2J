@@ -2,7 +2,9 @@
 
 Il s'agit d'un code Python qui implémente le jeu de Tic-Tac-Toe (ou Morpion) pour deux joueurs.
 
-Deux plateaux sont affichés à chaque tour. Le plateau blanc est le plateau de jeu. Le plateau jaune est le plateau d'aide, il indique le numéro à entrer (de 1 à 9) pour positionner son symbole dans le plateau blanc.
+Deux plateaux sont affichés à chaque tour :
+- Le plateau blanc est le plateau de jeu.
+- Le plateau jaune est le plateau d'aide, il indique le numéro à entrer (de 1 à 9) pour positionner son symbole dans le plateau blanc.
 
 Les joueurs choisissent leur symbole (un caractère ASCII sauf le caractère " ") et l'algorithme vérifie à chaque tour si le jeu est gagné par un des deux joueurs ou s'il y a égalité.
 ## Fonctions et Variables
